@@ -80,7 +80,17 @@ JDK=JRE+JVM+(debug+compile)
 jar  =java sıkıştırılmış dosyadır.
 Byte code çevrilen bütün dilleri çalıştırılabilir özelliktedir.
 
+Runtime error=
+Programın çalıştırılması sırasında karşılaşılan hatalardır. 
+Yazılımcının dışında gerçekleşen hatalardır.
+
+Sytax error = Gramer hatası
  
+ ı,ö,ü,ç ,ş ,İ,Ö,Ç,Ş değişken isimlerinde kullanmayalım. (HATA)
+int 41_sayi ;  (HATA)
+
+CamelCase:   hamitMızrakMalatya
+PascalCase:  HamitMızrakMalatya
  */
 public class Ders_001_GenelBilgiler {
 
